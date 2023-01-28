@@ -24,7 +24,7 @@ Bu proje, Natural Language Toolkit (nltk) ve pickle kullanarak bir film öneri s
 # Kullanım
 
 
-1-CSV dosyasını önceden işlemek ve modeli eğitmek için train.py'yi run edin. Bu, proje dizininde similarity.pkl dosyası yaratacaktır.
+1- tmdb_5000_credits.csv ve tmdb_5000_movies.csv dosyalarını önceden işlemek ve modeli eğitmek için bu dosyaları train.py ile aynı dizine getirdikten sonra scripti run edin. Bu, proje dizininde similarity.pkl dosyası yaratacaktır.
 
 2-Bir film başlığı girmenize ve benzer filmler için önerileri görmenize izin verecek olan akıcı uygulamayı başlatmak için app.py'yi çalıştırın.
 
