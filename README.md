@@ -7,11 +7,17 @@ Bu proje, Natural Language Toolkit (nltk) ve pickle kullanarak bir film öneri s
 # Gereksinimler
 
 -pandas
+
 -numpy
+
 -nltk
+
 -sklearn
+
 -streamlit
+
 -ast
+
 -pickle
 
 
